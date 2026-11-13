@@ -1,0 +1,2 @@
+# -Desafio-de-Projeto-DIO-Criando-uma-Ferramenta-de-Controle-de-Investimentos-com-Excel
+Planilha em Excel para simulação de investimentos de longo prazo e alocação em Fundos Imobiliários (FIIs). A partir do salário, aporte mensal, prazo e rentabilidade, projeta o patrimônio acumulado, dividendos mensais, evolução na primeira década e divide automaticamente os aportes entre classes de FIIs conforme o perfil do investidor.
